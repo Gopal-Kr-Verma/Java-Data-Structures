@@ -1,3 +1,5 @@
+// Print the array elements linewise
+
 import java.io.*;
 import java.util.*;
 
